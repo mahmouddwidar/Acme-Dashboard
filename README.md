@@ -15,7 +15,6 @@ Throughout the course, I developed an application that includes:
 - **Dashboard Interface**: authenticated user can:
   - View a summary of financial data.
   - Add, edit, and delete invoices.
-  - Access detailed invoice information.
 
 By completing this course, I gained essential skills to build robust full-stack applications using Next.js.
 
