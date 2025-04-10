@@ -49,3 +49,10 @@ To set up and run the project locally, follow these steps:
    pnpm dev
    ```
 Then visit http://localhost:3000 in your browser to view the application.
+
+## Login Credentials
+
+To access the dashboard, use the following test account:
+
+- **Email**: user@nextmail.com  
+- **Password**: 123456
