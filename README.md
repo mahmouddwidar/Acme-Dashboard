@@ -3,8 +3,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15.0.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.18.0-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
-
 This repository contains the starter template I used for the [Next.js App Router Course](https://nextjs.org/learn/dashboard-app). It provided the foundational code for building a full-stack financial dashboard application.
+![Image](https://github.com/user-attachments/assets/104e3112-2fee-43ad-8dfc-a58b9251e89e)
 
 ## Project Overview
 
